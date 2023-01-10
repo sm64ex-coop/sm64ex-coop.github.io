@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SM64Text';
+    src: url('sm64text.ttf');
+}
+
+body {
+    background: url('sm64bg.png') repeat fixed;
+    font-family: 'SM64Text', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+p {
+    font-size: 1.5em;
+}
